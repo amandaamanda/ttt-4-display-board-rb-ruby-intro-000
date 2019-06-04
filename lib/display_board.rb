@@ -10,3 +10,6 @@ def display_board(board)
 end
 
 display_board([" "," "," "," "," "," "," "," "," "])
+display_board(["X"," "," "," "," "," "," "," "," "])
+display_board(["O"," "," "," "," "," "," "," "," "])
+display_board(["O","O","O"," "," "," "," "," "," "])
