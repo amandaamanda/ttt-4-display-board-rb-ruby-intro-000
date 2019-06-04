@@ -7,3 +7,6 @@ def display_board(board)
   puts "------------"
   puts "#{board[6]|board[7]|board[8]}"
 end
+
+board_array = ["   ","   ","   ","   ","   ","   ","   ","   ","   ",]
+display_board(board_array)
